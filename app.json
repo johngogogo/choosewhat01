@@ -1,0 +1,14 @@
+{
+  "pages":[
+    "pages/select/select",
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/seresult/seresult"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#3366cc",
+    "navigationBarTitleText": "今天吃什么",
+    "navigationBarTextStyle":"#fff"
+  }
+}
